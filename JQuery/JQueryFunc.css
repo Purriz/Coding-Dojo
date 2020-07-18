@@ -1,0 +1,29 @@
+*{
+    font-family: sans-serif
+}
+#wrapper{
+    margin: 100px auto;
+    background-color: red;
+    width: 100px;
+    min-height: 100px;
+}
+#bluesquare{
+    /* margin: 10px auto; */
+    background-color: blue;
+    width: 100px;
+    min-height: 100px;
+    float: left;
+}
+.yellowsquare{
+    /* margin: 10px auto; */
+    background-color: yellow;
+    width: 100px;
+    min-height: 100px;
+    float: right;
+}
+.bluesquare{
+    background:#00f;
+    width: 100px;
+    min-height: 100px;
+    float: left;
+}

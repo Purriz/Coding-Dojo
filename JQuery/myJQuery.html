@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>    
+<head>
+    <title>my Jquery functions</title>
+    <script type="text/javascript" src="https://code.jquery.com/jquery-3.1.0.min.js"></script>
+    <script type="text/javascript">
+    	$(document).ready(function(){
+		$('.click').click(function(){
+			alert("wooo")
+		})
+    })
+    $('.hide').click(function(){
+			$(".hide").hide()
+		})
+    </script>
+</head>
+<body>
+    <fieldset>
+        <legend>Click</legend>
+        <p>click for alert</p>
+        <button class="click">Click</button>
+    </fieldset>
+    <fieldset>
+		<legend>Hide</legend>
+		<p>Hides an element</p>
+		<button class="hide">hide button</button>
+	</fieldset>
+</body>
+</html>
+
+<!-- I played around with the solution code so I have an understanding now -->

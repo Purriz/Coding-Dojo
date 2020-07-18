@@ -1,0 +1,13 @@
+*{
+    font-family: sans-serif;
+}
+.click{
+    width: 100px;
+    height: 100px;
+    margin: 0px auto;
+}
+.hide{
+    width: 100px;
+    height: 100px;
+    margin: opx auto;
+}

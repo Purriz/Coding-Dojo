@@ -1,0 +1,93 @@
+*{
+    font-family: sans-serif
+}
+#wrapper{
+    margin: 0px auto;
+    width: 900px;
+    min-height: 200px;
+}
+#pencil{
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    /* aligned with header h1 in the middle */
+    vertical-align: middle;
+}
+#header h1{
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 200px;
+}
+#header ul{
+    /* list-style-type: none; */
+    display: inline-block;
+}
+#header li{
+    display: inline-block;
+    margin: 10px;
+}
+#content{
+    background-color: gray;
+    min-height: 600px;
+    width: 900px;
+}
+/* '.' is a class */
+.subcontent{
+    display: inline-block;
+    margin: 48px;
+    height: 550px;
+    width: 350px;
+    background-color: white;
+    vertical-align: top;
+}
+#subcolor{
+    background-color: gray;
+    color: white;
+}
+.subcontent li{
+    font-size: 30px;
+    color: white;
+}
+.button{
+    display: inline-block;
+    width: 100px;
+    height: 35px;
+    background-color: white;
+    text-align: center;
+    padding-top: 15px;
+    margin: 30px;
+}
+#contact{
+    margin-top: 125px;
+}
+#contact p{
+    display: inline;
+}
+#footer{
+    background-color: lavender;
+    height: 200px;
+    width: 900px;
+}
+.sub_foot{
+    background-color: lightblue;
+    width: 277px;
+    height: 200px;
+    display: inline-block;
+    vertical-align: top;
+    padding: 10px;
+}
+.sub_foot h4{
+    display: inline-block;
+    margin-top: 3px;
+    vertical-align: middle;
+}
+.foot_img{
+    width: 50px;
+    height: 50px;
+    margin-right: 40px;
+}
+.placeholder{
+    background-color: white;
+    height: 100px;
+    margin-top: 25px;
+}

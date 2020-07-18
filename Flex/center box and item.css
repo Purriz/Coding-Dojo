@@ -1,0 +1,19 @@
+*{
+    /* everything!!!!~ */
+    /* margin is the space between */
+    margin: 0px;
+    padding: 0px;
+}
+#outer-box{
+    min-height: 150px;
+    width: 1800px;
+    background-color: rgb(54, 33, 243);
+    margin: 100px auto;
+    padding: 100px;
+}
+#center-box{
+    width: 50px;
+    background-color: rgb(255, 223, 78);
+    margin: 65px auto;
+    padding: 100px;
+}

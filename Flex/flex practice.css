@@ -1,0 +1,58 @@
+*{
+    /* everything!!!!~ */
+    /* margin is the space between */
+    margin: 0px;
+    padding: 5px;
+    text-decoration: none;
+}
+#wrapper{
+    list-style-type: none;
+    width: 1900px;
+    background-color: rgb(14, 118, 216);
+    margin: -345px auto;
+    padding: 185px;
+    /* display:inline-block; */
+}
+#logo{
+    list-style-type: none;
+    text-decoration: none;
+    margin: 10px auto;
+    padding: 10px;
+    display:flex;
+}
+#home{
+    list-style-type: none;
+    float: left;
+    width: 200px;
+    background-color: rgb(231, 235, 37);
+    margin: 100px auto;
+    padding: 10px;
+    display:inline-block;
+}
+#contacts{
+    list-style-type: none;
+    float: left;
+    width: 200px;
+    background-color: rgb(231, 235, 37);
+    margin: 100px auto;
+    padding: 10px;
+    display:inline-block;
+}
+#about_me{
+    list-style-type: none;
+    float: left;
+    width: 200px;
+    background-color: rgb(231, 235, 37);
+    margin: 100px auto;
+    padding: 10px;
+    display:inline-block;
+}
+#cool_sites{
+    list-style-type: none;
+    float: left;
+    width: 200px;
+    background-color: rgb(231, 235, 37);
+    margin: 100px auto;
+    padding: 10px;
+    display:inline-block;
+}

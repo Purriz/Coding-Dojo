@@ -1,0 +1,233 @@
+*{
+    font-family: sans-serif
+}
+#wrapper{
+    margin: 0px auto;
+    width: 1200px;
+    min-height: 5px;
+    background-color: rgb(122, 122, 122);
+}
+#header{
+    /* display: inline-block; */
+    /* background-color: lightblue; */
+    vertical-align: middle;
+    /* margin-right: 200px; */
+    float: left;
+}
+#subheader{
+    /* display: inline-block; */
+    /* background-color: lightblue; */
+    color: white;
+    vertical-align: middle;
+    margin-right: 55px;
+    float: right;
+}
+#homeheader{
+    margin: 72px auto;
+    width: 1850px;
+    min-height: 85px;
+    background-color: silver;
+    background-image: linear-gradient(rgb(71, 71, 71), black);
+}
+.hometext{
+    display: table;   /* Allow the centering to work */
+    margin: 0px auto;
+}
+ul#horizontal-list{
+	min-width: 696px;
+	list-style: none;
+    padding-top: 20px;
+    padding-left: 630px;
+    font-size: 25px;
+}
+ul#horizontal-list li{
+    display: inline;
+}
+#bigphoto{
+    /* display: inline-block; */
+    width: 500px;
+    min-height: 300px;
+    padding-left: 535px;
+    /* float: left; */
+    vertical-align: middle;
+    margin: -75px;
+}
+#ipsumback{
+    margin: 72px auto;
+    width: 1850px;
+    min-height: 270px;
+    background-color: rgb(10, 10, 10);
+}
+#ipsumheader{
+    color: orange;
+    min-width: 10px;
+	list-style: none;
+    padding-top: 20px;
+    margin: 0px auto;
+}
+#ornareicon{
+    min-width: 10px;
+    padding-left: 240px;
+    padding-top: 12px;
+    float: left;
+    margin: 0px auto;
+}
+#ornare{
+    font-size: 25px;
+    display: table;
+    padding-left: 25px;
+    float: left;
+}
+#textoneblocklol{
+    font-size: 25px;
+    display: table;
+    padding-left: 130px;
+    float: left;
+}
+.textone{
+    font-size: 15px;
+    color: white;
+    display: table;
+    float: left;
+    padding-left: 100px;
+    /* width: 0px; */
+    /* height: 0px; */
+    /* margin-right: 20px; */
+}
+#textoneblocklol div{
+    display: inline-block;
+    width: 290px;
+}
+#purusicon{
+    min-width: 10px;
+    padding-left: 115px;
+    padding-top: 12px;
+    float: left;
+    margin: 0px auto;
+}
+#purus{
+    font-size: 25px;
+    display: table;
+    padding-left: 25px;
+    float: left;
+}
+#tellusicon{
+    min-width: 10px;
+    padding-left: 165px;
+    padding-top: 12px;
+    float: left;
+    margin: 0px auto;
+}
+#tellus{
+    font-size: 25px;
+    display: table;
+    padding-left: 25px;
+    float: left;
+}
+#semicon{
+    min-width: 10px;
+    padding-left: 170px;
+    padding-top: 12px;
+    float: left;
+    margin: 0px auto;
+}
+#sem{
+    font-size: 25px;
+    display: table;
+    padding-left: 25px;
+    float: left;
+}
+#blackground{
+    margin: -1000px auto;
+    width: 1850px;
+    min-height: 1990px;
+    background-color: black;
+}
+#buytitle{
+    vertical-align: middle;
+    margin: 10px auto;
+    /* width: 10px; */
+    height: 10px;
+    color: white;
+    padding-left: 300px;
+    padding-top: 55px;
+}
+#buy{
+    vertical-align: middle;
+}
+.button{
+    vertical-align: middle;
+    width: 90px;
+    min-height: 0px;
+    margin-right: 300px;
+    float: right;
+    transform: scale(2);
+    background-color: orange;
+}
+#textlorem{
+    color: white;
+    padding-top: 20px;
+    padding-left: 325px;
+}
+#blackgroundtwo{
+    margin: -100px auto;
+    width: 1850px;
+    min-height: 1000px;
+    margin-top: -5px;
+    background-color: black;
+}
+#portfolio{
+    color: white;
+    padding-top: 20px;
+    padding-left: 245px;
+}
+#bottomblock{
+    margin: 0px auto;
+    width: 1838px;
+    min-height: 460px;
+    margin-top: -465px;
+    background-color: rgb(54, 54, 54);
+}
+#bottomtitle{
+    margin: -850px auto;
+    color: white;
+    float: left;
+    vertical-align: middle;
+    padding-left: 25px;
+}
+#portphoto{
+    padding-top: 0px;
+    padding-left: 450px;
+    padding-right: 20px;
+    display: table;
+}
+#porttext{
+    padding-top: 45px;
+    padding-left: 0px;
+    vertical-align: middle;
+}
+#porttext2{
+    padding-top: 35px;
+    padding-left: 0px;
+    margin-left: 0px;
+}
+#porttext3{
+    padding-top: 35px;
+    padding-left: 0px;
+}
+#porttext4{
+    padding-top: 35px;
+    padding-left: 0px;
+}
+.glaceon{
+    display: inline-block;
+}
+.glaceon div{
+    padding: 20px;
+    width: 235px;
+}
+.glaceon h5{
+    font-size: large;
+    color: orange;
+    margin: 5px;
+}
