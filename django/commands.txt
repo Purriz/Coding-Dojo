@@ -1,0 +1,11 @@
+python -m venv djangoPy3Env
+
+call djangoPy3Env\Scripts\activate
+
+django-admin startproject your_project_name_here
+
+python manage.py runserver
+
+python manage.py startapp your_app_name_here
+
+pip install Django==2.2

@@ -19,10 +19,10 @@ class Warrior:
 merlin = Warrior('wizard')
 jack = Warrior('samurai')
 
-print(player_one)
-print(player_one.warrior)
+# print(player_one)
+# print(player_one.warrior)
 
-player_one.warrior.attack(player_three.warrior)
+# player_one.warrior.attack(player_three.warrior)
 
 
 class Player:
